@@ -1,0 +1,14 @@
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\N4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\N4.AssemblyInfoInputs.cache
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\N4.AssemblyInfo.cs
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\N4.csproj.CoreCompileInputs.cache
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\bin\Debug\net7.0\N4.exe
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\bin\Debug\net7.0\N4.deps.json
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\bin\Debug\net7.0\N4.runtimeconfig.json
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\bin\Debug\net7.0\N4.dll
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\bin\Debug\net7.0\N4.pdb
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\N4.dll
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\refint\N4.dll
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\N4.pdb
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\N4.genruntimeconfig.cache
+D:\GkBr\git\les_2_Простые Алгоритмы\N4\obj\Debug\net7.0\ref\N4.dll
